@@ -1,4 +1,4 @@
-# 💻 Desafio: Conta Banco
+# Desafio: Conta Banco
 
 Este repositório contém a resolução de um desafio proposto pela [Digital Innovation One](https://www.dio.me/).
 
